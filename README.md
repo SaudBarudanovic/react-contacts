@@ -1,1 +1,1 @@
-A contacts app created with React and Node.js
+A simple CRUD app utilising MongoDB, Express.js, React and Node.js
